@@ -115,4 +115,7 @@ CLAUDE.local.md
 *.doc*
 *.xls*
 
+# direnv
+.direnv
+.envrc
 e2e/reports
